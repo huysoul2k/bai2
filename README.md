@@ -22,10 +22,10 @@ namespace QuanLyDSHocSinh_LinQ
         {
             List<Student> students = new List<Student>
             {
-                new Student { Id = 1, Name = "Hoang", Age = 16 },
-                new Student { Id = 2, Name = "Huy", Age = 14 },
-                new Student { Id = 3, Name = "Long", Age = 18 },
-                new Student { Id = 4, Name = "Anh", Age = 15 },
+                new Student { Id = 1, Name = "Huy", Age = 16 },
+                new Student { Id = 2, Name = "Viet", Age = 14 },
+                new Student { Id = 3, Name = "Thang", Age = 18 },
+                new Student { Id = 4, Name = "Minh", Age = 15 },
                 new Student { Id = 5, Name = "Hieu", Age = 19 }
             };
 
